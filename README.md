@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- ===================== DOOM HEADER ===================== -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=HELL+ANSWERS+TO+ME;FOR+I+AM+DOOM." alt="DOOM" /> </p>
 
-<!--
-**DR-DOOM-3000/DR-DOOM-3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/IDENTITY-DR--DOOM-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/REALM-LATVERIA-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-UNSTOPPABLE-00FF41?style=for-the-badge&labelColor=000000" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<!-- <p align="center">
+  <img src="photo_2026-08-16_10-30-14.jpg" width="100%" />
+</p>  -->
+
+<p align="center">
+  <b>👑 SCIENCE BENDS. MAGIC OBEYS. DOOM PREVAILS. 👑</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=000000" width="100%" />
+</p>
