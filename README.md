@@ -15,19 +15,6 @@
 </p>
 
 <p align="center">
-  <a href="./Doom.mp4">
-    <img src="https://img.shields.io/badge/▶_WATCH_DOOM-00FF41?style=for-the-badge&labelColor=000000" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="./Doom.mp4">
-    <img src="https://img.shields.io/badge/▶_WATCH_DOOM-00FF41?style=for-the-badge&labelColor=000000" />
-  </a>
-</p>
-
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=000000" width="100%" />
 </p>
 
